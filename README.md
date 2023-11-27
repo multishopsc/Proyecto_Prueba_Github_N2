@@ -1,2 +1,2 @@
 # Proyecto_Prueba_Github_N2
-Prueba 2
+Esta es la edicion de la Descripcion
